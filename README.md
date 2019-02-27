@@ -4,5 +4,3 @@ For personal information, please refer to [homepage](home.ustc.edu.cn/~jzh0103)
 [Numerical Algebra(数值代数)](https://github.com/zihangJiang/Numerical-Algebra)
 
 
-![abc](http://latex.codecogs.com/gif.latex?\prod%20\(n_{i}\)+1)
-
