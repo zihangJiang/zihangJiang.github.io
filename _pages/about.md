@@ -15,6 +15,8 @@ My research interest covers Computer Vision/ Natural Language Processing / Cross
 ---
 
 Email: jzihang at nus dot edu dot sg
+
 Google scholar: [Link](https://scholar.google.com/citations?user=Wo8tMSMAAAAJ&hl=en)
+
 Github: [Link](https://github.com/zihangJiang)
 
