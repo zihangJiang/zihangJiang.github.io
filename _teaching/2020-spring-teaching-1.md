@@ -1,0 +1,16 @@
+---
+title: "EE4212"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2020-spring-teaching-1
+venue: "NUS, ECE"
+date: 2020-01-12
+location: "Singapore, Singapore"
+---
+
+Computer Vision
+
+Intro
+======
+The goal of this module is to introduce the students to the problems and solutions of modern computer vision, with the main emphasis on recovering properties of the 3D world from image and video sequence. After this module, students are expected to be able to understand and compute the basic geometric and photometric properties of the 3D world (such as point depth and surface orientation), and to apply various methods for video manipulation such as segmentation, matting, and composition. Main topics covered include: Singular value decomposition, projective geometry, Marr's paradigm, calibration problems, correspondence and flow, epipolar geometry, motion estimation, reflectance models, shape from shading, photometric stereo, color processing, texture analysis and synthesis, advanced segmentation, matting and composition techniques.
+
