@@ -85,9 +85,9 @@ author:
   bio              : "Ph.D. candidate @ NUS, ECE"
   location         : "Singapore"
   employer         :
-  pubmed           : "https://scholar.google.com/citations?user=Wo8tMSMAAAAJ&hl=en"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=Wo8tMSMAAAAJ&hl=en"
-  email            :
+  email            : "jzihang at u.nus.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-8096-842X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
