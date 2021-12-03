@@ -9,9 +9,11 @@ redirect_from:
 ---
 Hi, I'm Zihang Jiang, Ph.D. candidate from National University of Singapore, ECE department advised by Prof. Xinchao Wang and Dr. Jiashi Feng. I received my Bachelor degree in Mathematics from USTC in 2019, advised by Prof. Juyong Zhang.
 
+General Research Interest
 ---
 My research interest covers Computer Vision/ Natural Language Processing / Cross-modality Learning/ Attention based model. Feel free to drop me an email if you are interested.
 
+More Info
 ---
 
 Email: jzihang at nus dot edu dot sg
