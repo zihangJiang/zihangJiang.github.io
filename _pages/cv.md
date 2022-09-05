@@ -22,6 +22,16 @@ Work experience
   * Mentor: Yunpeng Chen
 
 * Sping 2021: Research Intern
-  * Bytedance
+  * Bytedance AI Lab
   * Research Area: Computer Vision
-  * Supervisor: Anran Wang
+  * Mentor: Anran Wang
+
+* Fall 2021: Research Intern
+  * Meta
+  * Research Area: Computer Vision and Multi-Modality
+  * Mentor: Marcus Rohrbach
+
+* Spring 2022: Research Intern
+  * Bytedance Intelligence Creation Lab
+  * Research Area: 3D Vision
+  * Mentor: Jiashi Feng

@@ -1,5 +1,5 @@
 ---
-title: "EE4212"
+title: "EE4212 Computer Vision"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2020-spring-teaching-1
@@ -7,8 +7,6 @@ venue: "NUS, ECE"
 date: 2020-01-12
 location: "Singapore, Singapore"
 ---
-
-Computer Vision
 
 Intro
 ======
