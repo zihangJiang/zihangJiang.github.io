@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Zihang Jiang, Ph.D. candidate from National University of Singapore, ECE department advised by Prof. Xinchao Wang and Dr. Jiashi Feng. I received my Bachelor degree in Computational Mathematics from Hua Loo-keng Talent Program of USTC in 2019, advised by Prof. Juyong Zhang.
+Hi, I'm Zihang Jiang, Ph.D. from National University of Singapore, ECE department advised by Prof. Xinchao Wang and Dr. Jiashi Feng. I received my Bachelor degree in Computational Mathematics from Hua Loo-keng Talent Program of USTC in 2019, advised by Prof. Juyong Zhang.
 
 General Research Interest
 ---

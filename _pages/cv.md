@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics, USTC, 2015-2019
-* Ph.D in ECE, NUS, 2019-2023 (expected)
+* Ph.D in ECE, NUS, 2019-2023
 
 Work experience
 ======
